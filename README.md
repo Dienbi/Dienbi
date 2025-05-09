@@ -30,12 +30,10 @@ I’m passionate about building scalable web solutions and exploring emerging te
 ---
 
 ## 📊 GitHub Stats
-![Dhia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhia-borji&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhia-borji&layout=compact&theme=radical)
+![Dhia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dienbi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dienbi&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let’s Connect!
-[<img src="[https://img.icons8.com/color/48/000000/linkedin.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png)"/>]([https://www.linkedin.com/in/dhia-borji](https://www.linkedin.com/in/dhia-borji-85b116183/))  [<img src="[https://img.icons8.com/color/48/000000/instagram.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png)"/>]([https://instagram.com/dhia_borji](https://www.instagram.com/dhiaborji/))
-
-💡 **Fun Fact**: I’m a Deep Learning enthusiast—certified by NVIDIA in Deep Learning Fundamentals!
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/48px-LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/dhia-borji-85b116183/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/48px-Instagram_logo_2022.svg.png"/>](https://www.instagram.com/dhiaborji/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Facebook_icon_%28black%29.svg/48px-Facebook_icon_%28black%29.svg.png"/>](https://www.facebook.com/profile.php?id=100005617759150)
