@@ -36,6 +36,6 @@ I’m passionate about building scalable web solutions and exploring emerging te
 ---
 
 ## 📫 Let’s Connect!
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/dhia-borji) [<img src="https://img.icons8.com/color/48/000000/twitter.png"/>](https://twitter.com/dhia_borji) [<img src="https://img.icons8.com/color/48/000000/instagram.png"/>](https://instagram.com/dhia_borji)
+[<img src="[https://img.icons8.com/color/48/000000/linkedin.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png)"/>]([https://www.linkedin.com/in/dhia-borji](https://www.linkedin.com/in/dhia-borji-85b116183/))  [<img src="[https://img.icons8.com/color/48/000000/instagram.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png)"/>]([https://instagram.com/dhia_borji](https://www.instagram.com/dhiaborji/))
 
 💡 **Fun Fact**: I’m a Deep Learning enthusiast—certified by NVIDIA in Deep Learning Fundamentals!
