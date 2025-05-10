@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3N3MDRxNXo5MmRhMGkyMm1rbHRuM2h5dG9kd3VjbnQ4MWdsbGo0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Financial Management Animation" width="100%">
+  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="Financial Management Animation" width="100%">
 </p>
 # 👋 Hi, I’m Dhia Borji
 
