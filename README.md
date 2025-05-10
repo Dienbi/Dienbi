@@ -40,3 +40,6 @@ I’m passionate about building scalable web solutions and exploring emerging te
 
 ## 📫 Let’s Connect!
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/48px-LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/dhia-borji-85b116183/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/48px-Instagram_logo_2022.svg.png"/>](https://www.instagram.com/dhiaborji/) 
+
+## Portfolio Link
+View my live portfolio here: [https://dienbi.github.io/](https://dienbi.github.io/)
