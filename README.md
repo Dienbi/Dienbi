@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ5ZHhlc2Z2dnMzbHJ3M2FpdTN5M296Z2VsazhkeTcxdzBiYXptaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C41Xy2F6TjP04XJIld/giphy.gif" alt="Financial Management Animation" width="100%">
+</p>
 # 👋 Hi, I’m Dhia Borji
 
 🎓 **2nd-year TWIN (Web & Internet Technologies) student at ESPRIT**  
