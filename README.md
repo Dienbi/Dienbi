@@ -3,7 +3,7 @@
 </p>
 # 👋 Hi, I’m Dhia Borji
 
-🎓 **2nd-year TWIN (Web & Internet Technologies) student at ESPRIT**  
+🎓 **3rd-year TWIN (Web & Internet Technologies) student at ESPRIT**  
 💻 **Full-Stack Developer | DevOps Enthusiast | AI Explorer**  
 📍 Mornaguia, Manouba | 📧 dhia.borji2001@gmail.com  | 94583034
 
